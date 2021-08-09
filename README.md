@@ -1,4 +1,4 @@
-### "Hello World"
+<h1 style="text-align: center">Hello World</h1> 
 
 <p align="center">
 <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos@0.0.3/src/kotlin/kotlin.png" alt="Kotlin" height="40" style="vertical-align:top; margin:4px">
